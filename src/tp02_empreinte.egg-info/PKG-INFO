@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: tp02-empreinte
+Version: 1.0.0
+Summary: TP02 - Reconnaissance d’Empreinte Digitale (ORB, FFT, Gabor, SSIM+Contours)
+Requires-Python: >=3.10
