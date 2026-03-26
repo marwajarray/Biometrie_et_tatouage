@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+src/tp02_empreinte/__init__.py
+src/tp02_empreinte/benchmark.py
+src/tp02_empreinte/cli.py
+src/tp02_empreinte/common.py
+src/tp02_empreinte/method_fft.py
+src/tp02_empreinte/method_gabor.py
+src/tp02_empreinte/method_orb.py
+src/tp02_empreinte/method_ssim_edges.py
+src/tp02_empreinte.egg-info/PKG-INFO
+src/tp02_empreinte.egg-info/SOURCES.txt
+src/tp02_empreinte.egg-info/dependency_links.txt
+src/tp02_empreinte.egg-info/top_level.txt
+tests/test_methods_smoke.py
+tests/test_preprocess_ssim.py

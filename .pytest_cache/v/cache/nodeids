@@ -1,0 +1,5 @@
+[
+  "tests/test_methods_smoke.py::test_methods_run_without_crash",
+  "tests/test_preprocess_ssim.py::test_preprocess_shape_and_type",
+  "tests/test_preprocess_ssim.py::test_similarity_identical_is_high"
+]
